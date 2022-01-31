@@ -9,3 +9,8 @@ Array Representation finished.
 Array- arr[x+1] gives the address and *arr[x+1] also gives the address. If double pointer is present then only it gives the VALUE of the address and if
 it is not present it only returns the ADDRESS.
 Recursion practise : fibonacci(normal and memoization) , tower of hanoi
+
+
+DAY 3 - 31 Jan
+Array ADT
+Recursion practise: reverse , pallindrome
