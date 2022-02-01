@@ -13,4 +13,8 @@ Recursion practise : fibonacci(normal and memoization) , tower of hanoi
 
 DAY 3 - 31 Jan
 Array ADT
-Recursion practise: reverse , pallindrome
+Recursion practise: reverse , pallindrome.
+
+DAY 4 - 1 Feb
+Array ADT - Insert , delete
+Recursion practise : binary search , taylor series
