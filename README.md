@@ -18,3 +18,7 @@ Recursion practise: reverse , pallindrome.
 DAY 4 - 1 Feb
 Array ADT - Insert , delete
 Recursion practise : binary search , taylor series
+
+DAY 5 - 2Feb
+Array ADT - linear search (improvement 1)Transposition & 2)Move to head ) , binary search
+Recursion practise : bubble sort.
