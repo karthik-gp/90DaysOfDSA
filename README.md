@@ -22,3 +22,10 @@ Recursion practise : binary search , taylor series
 DAY 5 - 2Feb
 Array ADT - linear search (improvement 1)Transposition & 2)Move to head ) , binary search
 Recursion practise : bubble sort.
+
+DAY 6 - 3Feb
+Recursion 
+powerset- all the subset of an array eg arr[3]={1,2,3} powerset={ [],{1},{2},{3},{1,2},{2,3},{1,3},{1,2,3} } 2^n;
+approach - inclusion and exclusion.
+Subsequence of a string: "a b c" - bc , ac, ab , a , b , c , abc , "" 
+Phone keypad problem - number entered print assosciated number with it.
