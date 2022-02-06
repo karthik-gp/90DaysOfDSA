@@ -29,3 +29,12 @@ powerset- all the subset of an array eg arr[3]={1,2,3} powerset={ [],{1},{2},{3}
 approach - inclusion and exclusion.
 Subsequence of a string: "a b c" - bc , ac, ab , a , b , c , abc , "" 
 Phone keypad problem - number entered print assosciated number with it.
+
+DAY 7 - 4Feb
+codechef problems.
+
+DAY 8 - 5Feb
+codechef problems.
+
+DAY 9 - 6Feb
+codechef problems.
