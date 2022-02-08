@@ -38,3 +38,6 @@ codechef problems.
 
 DAY 9 - 6Feb
 codechef problems.
+
+DAY 10 - 8Feb
+Array ADT- Get,Set,Max,Min,Sum,Avg, insert in sorted array , isSorted or not , keeping -ve number on left
