@@ -43,4 +43,8 @@ DAY 10 - 8Feb
 Array ADT- Get,Set,Max,Min,Sum,Avg, insert in sorted array , isSorted or not , keeping -ve number on left.
 
 DAY 11 -9Feb
-ADT- merge 2 array (in sorted manner) , -ve on left using (quick sort) , 
+ADT- merge 2 array (in sorted manner) , -ve on left using (quick sort)
+
+DAY 12 -10Feb
+ADT- Set operation union,intersection and difference(all can be done using the concept of merge array), missing single element(sort),
+multiple element (sorted)
