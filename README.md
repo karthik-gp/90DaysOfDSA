@@ -48,3 +48,12 @@ ADT- merge 2 array (in sorted manner) , -ve on left using (quick sort)
 DAY 12 -10Feb
 ADT- Set operation union,intersection and difference(all can be done using the concept of merge array), missing single element(sort),
 multiple element (sorted) , multiple element unsorted(hash table), duplicate element (sort) 
+
+DAY 13 -11Feb
+codechef
+
+DAY 14 -12Feb
+codechef
+
+DAY15 -13Feb
+codechef
