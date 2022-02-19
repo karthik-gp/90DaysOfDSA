@@ -63,3 +63,6 @@ recursion keypad problem
 
 DAY17 -17Feb
 string permutation recursion
+
+DAY18 -19Feb
+Rat in a maze (take a third vector visited vector).
