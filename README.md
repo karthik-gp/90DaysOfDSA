@@ -68,4 +68,7 @@ DAY18 -19Feb
 Rat in a maze (take a third vector visited vector).
 
 DAY19 -20Feb
-unique element,duplicate in an array
+unique element,duplicate in an array.
+
+DAY20 -22Feb
+revise old concept
