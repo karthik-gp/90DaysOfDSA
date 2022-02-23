@@ -72,3 +72,6 @@ unique element,duplicate in an array.
 
 DAY20 -22Feb
 revise old concept
+
+DAY21 -23Feb
+Duplicate(many in sorted)and count , duplicate in unsorted , pair of element (a+b) sorted and unsorted , max and min
