@@ -74,4 +74,7 @@ DAY20 -22Feb
 revise old concept
 
 DAY21 -23Feb
-Duplicate(many in sorted)and count , duplicate in unsorted , pair of element (a+b) sorted and unsorted , max and min
+Duplicate(many in sorted)and count , duplicate in unsorted , pair of element (a+b) sorted and unsorted , max and min.
+
+DAY22 -24Feb
+String,length of string, intersection(2 pointer approach), pair sum(unsorted).
