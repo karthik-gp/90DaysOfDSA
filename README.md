@@ -80,4 +80,4 @@ DAY22 -24Feb
 String,length of string, intersection(2 pointer approach), pair sum(unsorted).
 
 DAY23 -26Feb
-upper case to lower case, toggle lower and upper , vowel and words , valid string (no spl character) , triplet with given sum(using 3 loops).
+upper case to lower case, toggle lower and upper , vowel and words , valid string (no spl character) , triplet with given sum(using 3 loops) , sort 0 and 1
