@@ -83,4 +83,7 @@ DAY23 -26Feb
 upper case to lower case, toggle lower and upper , vowel and words , valid string (no spl character) , triplet with given sum(using 3 loops) , sort 0 and 1.
 
 DAY24 -27Feb
-reverse string , pallindrome , compare strings , duplicate(using hash) & bitwise
+reverse string , pallindrome , compare strings , duplicate(using hash) & bitwise.
+
+DAY25 -28Feb
+anagram (two loops and hashmap) 
