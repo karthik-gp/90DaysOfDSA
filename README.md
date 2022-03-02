@@ -86,4 +86,7 @@ DAY24 -27Feb
 reverse string , pallindrome , compare strings , duplicate(using hash) & bitwise.
 
 DAY25 -28Feb
-anagram (two loops and hashmap) 
+anagram (two loops and hashmap).
+
+DAY26 -2Mar
+first and last position in array
