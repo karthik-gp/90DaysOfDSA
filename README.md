@@ -89,4 +89,7 @@ DAY25 -28Feb
 anagram (two loops and hashmap).
 
 DAY26 -2Mar
-first and last position in array
+first and last position in array.
+
+DAY27 -3Mar
+Peak Index in a Mountain Array
