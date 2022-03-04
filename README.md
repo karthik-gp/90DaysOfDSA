@@ -92,4 +92,7 @@ DAY26 -2Mar
 first and last position in array.
 
 DAY27 -3Mar
-Peak Index in a Mountain Array
+Peak Index in a Mountain Array.
+
+DAY28 -4Mar
+pivot element (min/max element) , Search In Rotated Sorted Array , Square Root
