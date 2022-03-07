@@ -99,3 +99,6 @@ pivot element (min/max element) , Search In Rotated Sorted Array , Square Root.
 
 DAY29 -5Mar
 sqr root with decimal precision
+
+7Mar
+revision.
